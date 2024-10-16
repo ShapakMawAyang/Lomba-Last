@@ -1447,12 +1447,11 @@ section,
   transform: translateY(0);
 }
 
-#fotoparis {
-  width: 300px;
+#fotopsc {
+  width: 600px;
   height: auto;
+  margin: auto;
   margin-right: 20px;
-  border-radius: 8px;
-  float: left;
 }
 
 .tentang-text {
@@ -1467,25 +1466,6 @@ section,
     transform: translateY(10px);
   }
 
-  #fotoparis {
-    width: 100%;
-    margin-right: 0;
-    margin-bottom: 15px;
-  }
-}
-
-.sejarahsingkat {
-  text-align: left;
-  max-width: 1400px;
-  margin: 0px auto;
-  padding: 20px;
-}
-
-.pariwisata {
-  text-align: left;
-  max-width: 1400px;
-  margin: 0px auto;
-  padding: 20px;
 }
 
 #fotokuliner {
@@ -1511,6 +1491,14 @@ section,
   }
 }
 
+#fotolentho {
+  width: 100%;
+  margin: auto;
+}
+
+#psc {
+  text-align: justify;
+}
 /*--------------------------------------------------------------
   # Starter Section Section
   --------------------------------------------------------------*/

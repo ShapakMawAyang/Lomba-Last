@@ -1,0 +1,54 @@
+declare -gx REPL_OWNER_ID=36955051
+declare -gx REPLIT_PID1_FLAG_NIXMODULES_BEFORE_REPLIT_NIX=1
+declare -gx REPLIT_ENVIRONMENT=production
+declare -gx REPLIT_PID1_FLAG_REPLIT_RTLD_LOADER=1
+declare -gx XDG_CONFIG_HOME=/home/runner/KicauMania/.config
+declare -gx COLORTERM=truecolor
+declare -gx NIX_PROFILES='/nix/var/nix/profiles/default /home/runner/.nix-profile'
+declare -gx DIRENV_CONFIG=/etc/direnv
+declare -gx NIX_PATH=nixpkgs=/home/runner/.nix-defexpr/channels/nixpkgs-stable-23_11:/home/runner/.nix-defexpr/channels
+declare -gx LANG=en_US.UTF-8
+declare -gx REPLIT_RIPPKGS_INDICES=/nix/store/73awzgwmrga8y0dl84cp30h40965wyk5-rippkgs-indices
+declare -gx REPLIT_DB_URL=https://kv.replit.com/v0/eyJhbGciOiJIUzUxMiIsImlzcyI6ImNvbm1hbiIsImtpZCI6InByb2Q6MSIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJjb25tYW4iLCJleHAiOjE3MjkwNzc5ODcsImlhdCI6MTcyODk2NjM4NywiZGF0YWJhc2VfaWQiOiIzMzkxY2NhYi1iODk0LTRhYjgtOThiNy1hMzEzOTllMGQ0YTcifQ.1BJ47Jkb8TLrVZ_qQlABlSeN2pIeX1Ep78j9F8YDj8xwiJpw3f_TwyK5E0Z40VpWb7xFUdkUUCeUeWWIJ4D-5w
+declare -gx XDG_CACHE_HOME=/home/runner/KicauMania/.cache
+declare -gx GIT_ASKPASS=replit-git-askpass
+declare -gx HOSTNAME=2e76f42b0f62
+declare -gx REPLIT_SUBCLUSTER=interactive
+declare -gx REPLIT_LD_AUDIT=/nix/store/n5x1kgbz8zjh63ymsijbislyi1n1hir6-replit_rtld_loader-1/rtld_loader.so
+declare -gx HOME=/home/runner
+declare -gx REPLIT_BASHRC=/nix/store/vxzp0jk1x0l6w6v1xhq7fi9rrw2jf2zj-replit-bashrc/bashrc
+declare -gx REPLIT_PID1_VERSION=0.0.0-d69e67d
+declare -gx DISPLAY=:0
+declare -gx REPL_LANGUAGE=html
+declare -gx NIXPKGS_ALLOW_UNFREE=1
+declare -gx REPLIT_CLI=/nix/store/kp5p8hhn2anqr2amqv7mcfqq15sbxhid-pid1-0.0.1/bin/replit
+declare -gx NIX_PS1='\[\033[01;34m\]\w\[\033[00m\]\$ '
+declare -gx REPLIT_DEV_DOMAIN=3391ccab-b894-4ab8-98b7-a31399e0d4a7-00-3bn5fvci5862g.sisko.replit.dev
+declare -gx GIT_EDITOR=replit-git-editor
+declare -gx REQUESTS_CA_BUNDLE=/etc/ssl/certs/ca-certificates.crt
+declare -gx REPLIT_CLUSTER=sisko
+declare -gx PROMPT_DIRTRIM=2
+declare -gx NODE_EXTRA_CA_CERTS=/etc/ssl/certs/ca-certificates.crt
+declare -gx REPL_PUBKEYS='{"crosis-ci":"7YlpcYh82oR9NSTtSYtR5jDL4onNzCGJGq6b+9CuZII=","crosis-ci:1":"7YlpcYh82oR9NSTtSYtR5jDL4onNzCGJGq6b+9CuZII=","crosis-ci:latest":"7YlpcYh82oR9NSTtSYtR5jDL4onNzCGJGq6b+9CuZII=","prod":"tGsjlu/BJvWTgvMaX7acuUb7AO1dXOrRiuk7y083RFE=","prod:1":"tGsjlu/BJvWTgvMaX7acuUb7AO1dXOrRiuk7y083RFE=","prod:2":"8uGN+vfszlnV93/HCSHlVLG0xddMlPkir1Ni4JKT4+w=","prod:3":"9+MCOSHQSQlcodXoot8dC8NLhc862nLkx1/VMsbY2h8=","prod:4":"8uGN+vfszlnV93/HCSHlVLG0xddMlPkir1Ni4JKT4+w=","prod:5":"9+MCOSHQSQlcodXoot8dC8NLhc862nLkx1/VMsbY2h8=","prod:latest":"tGsjlu/BJvWTgvMaX7acuUb7AO1dXOrRiuk7y083RFE=","vault-goval-token":"D5jJoMx1Ml54HM92NLgXl+MzptwDqbSsfyFG6f52g9E=","vault-goval-token:1":"D5jJoMx1Ml54HM92NLgXl+MzptwDqbSsfyFG6f52g9E=","vault-goval-token:latest":"D5jJoMx1Ml54HM92NLgXl+MzptwDqbSsfyFG6f52g9E="}'
+declare -gx REPL_SLUG=KicauMania
+declare -gx XDG_DATA_HOME=/home/runner/KicauMania/.local/share
+declare -gx SSL_CERT_FILE=/etc/ssl/certs/ca-certificates.crt
+declare -gx REPL_IDENTITY=v2.public.Q2lRek16a3hZMk5oWWkxaU9EazBMVFJoWWpndE9UaGlOeTFoTXpFek9UbGxNR1EwWVRjU0QyeHBaMkpoYkd4ek9URXhOamswTWhvS1MybGpZWFZOWVc1cFlTSWtNek01TVdOallXSXRZamc1TkMwMFlXSTRMVGs0WWpjdFlUTXhNems1WlRCa05HRTNPS3ZIenhGYUZBb0ZjMmx6YTI4U0MybHVkR1Z5WVdOMGFYWmz0TtoyksqFwfViCeddniOcbW6D4t5NWoZyQPyjWDEpyF2G6ylu3PDiMs1jTvj136XUne8Cc_9DgHeJtuN_sxEI.R0FFaUJtTnZibTFoYmhLYkNIWXlMbkIxWW14cFl5NVJNbVF6VTFSV1QwMXFUakZSVm14U1RERndVRk15YUZKVVZrNUZVVmRzTmsxSVNYSk9SVXB2VVRGd2RGTllSa2RSV0doMlVUQmtRbFpYUmt0YU1qbHlWRmh3VGs1Vk1WaFViWEJhVmpCc01GZFhjRzVPVlRWRVRVUkNXbFl3YXpCVVJsSnlUa1pzY1ZrelVscFdSVEUwVkZod2NrNVdjRlZSYlhSUFVqQlZlbEl5YUVaVk1GRjVaVWhDWVUxcmNHOVphMlEwWldzNVZWSllhRTloYlhOM1ZGZG9kbEpyT1V4a2EyZzJaVVZXYUZGdWJFcFNiVTE1WWtod2FFMXFhR2hTUms1MlZFZEdXRTVVUW1GWFJYQnZWMVJPVTJOSFVuUldWMnhQVmpOT05WUkhOVU5OVm14MFpVaENXbVZVVmxKYVZtUXdZMnh2ZDJSR1ZsUldWVEUxVmtaa1IxZEdXblZXYTFKb1VteHdiMVJxVGt0VlJURlpVV3BDYUZZeWMzZFpNRnBTWlVVeE5scEdhR3RYUlZwTVZUSnplRmRYVWpaaVJUWldWelZITVU5bk1USnNXRlZCUW5wdWIxWTNkMGg2UkVWeGRWb3pNV1oxV0doRlJYWjNiREJHVUdGSlFYSk9XV3M0TTJkWWQza3dVVms0VUV0MFREaG5WMnBVUVhsR2JYcHVZM0JWTFdNM2IyMUphamhKTGxJd1JrWmhWVXAwVkc1YWFXSlVSbTlaYldoTldXdEdkVmRZYkUxaWEwbDRWMWN4TkdOR2JEVk9Wa3BPWWxaSk1sWlVSbXROUjFaMFUyeGFWR0p1UWxkV2JURTBWVEZTY2xWdFJrNVdia0pYVlRKMFQxWkdXbGxoUlZaV1pXdEtjbFZxUVRGVFZrWnlVMnhhVGxKc2NGTldiWEJQV1ZkU1YySXphRk5pVjJoVFZtcEtiMlJXVmxoa1IzUnBZa1UxV0ZsclZrOVdiVXBWWWtWV1ZtRnJTa2hhUjNoelZteEtkVkpzU2xkV1dFSktWakp3UTJNeFpITlNiR2hvVTBad1UxUlZaRk5STVZwSFdrVmtVbUpWV2tsWGExVjRWVEF4ZEZWcmRGZE5WbHBVVlZSS1NtUXhVbkpoUmtwWFlURndkbFpXV210aU1rcHpWRzVLYVZORldsaFpiWFIzVkRGc1YxVnNaRTVOV0VKSVYydFdNR0ZyTVhKWGJHeFhVbTFvV0ZaRVJtRmtSMVpKWTBaa1YySldTa2xXUmxKTFZESk5lVk5xV2xaaGVteFlWRmQ0UzJJeFdYbE5WRkpVVFd0YVIxUldWbXRXUjBwR1YyeGFXbFo2UlRCWFZscHpUbXhHVlZKdGNHbFNXRUkyVmtSR1YxbFhSWGxUYkd4V1ZrVmFWMWxyV21GamJIQklaVVZhYkZKdVFrWldNakYzWVVkRmVHTkhPVmRoYTFwVVZYcEdUbVZHV25OVGJFWlhVa1ZLTTFZeWRHRlhiVTUwWTBVeFVGZEZOSHBhUlZaYVRsWndSVkpZVW1saVZGWlJWREJrWVZWdFNsaGhSRXBVVWxad2VGWnJWbkprUjFKRllVVndhV0pXY0ZGWFJFbDRWbFV4ZEZsNlVtcFhTRUpHVld0a1ZrNUdXa1ZpUmxKb1RWWktObGR0ZUc5aVYxWnlZbnBDV0ZaVk1UWlhiWE4zWld4a1ZrNVlTbFJXUjFKWlYxZHJkMDVXU25KVmJUbFBZVlJHVEZScVNUVlNSWGh6VTFoa1UyRXhjRzlXYkZaM1RVWmFTRTVYUm1oV01IQldWVzB3TlZkdFNsaFZha3BXWVd0d1VGVXhXazlrVm1SMFVteE9VMlZ0WnpBPQ
+declare -gx REPLIT_NIX_CHANNEL=stable-23_11
+declare -gx LOCALE_ARCHIVE=/usr/lib/locale/locale-archive
+declare -gx __EGL_VENDOR_LIBRARY_FILENAMES=/nix/store/zxhjnh2d440bhli0zck18s10hcq07qpp-mesa-24.2.2-drivers/share/glvnd/egl_vendor.d/50_mesa.json
+declare -gx REPL_IDENTITY_KEY=k2.secret.FTy6O8DIcrm3aV4uoSu8o_kvgxl5Ci5-fjRf4pFJRBo_KSSApMgLYxpZW4KFVrus7Wm2KLilPXfta6okkxfD0w
+declare -gx REPLIT_RTLD_LOADER=1
+read -r _new_path <<< "/nix/store/iw7qcsaz4skhn4k58nncb4gh2zn3vfxc-pid1/bin:/nix/store/4w8r0m0i3rkvi3kbcz3lnn5iy948bvy8-replit-runtime-path/bin:/home/runner/.nix-profile/bin:/home/runner/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+#PATH=/nix/store/iw7qcsaz4skhn4k58nncb4gh2zn3vfxc-pid1/bin:/nix/store/4w8r0m0i3rkvi3kbcz3lnn5iy948bvy8-replit-runtime-path/bin:/home/runner/.nix-profile/bin:/home/runner/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+if [ -e "/run/replit/env/last" ]; then read -r _last_path < <(\grep '^#PATH=' /run/replit/env/last | cut -f 2 -d =); fi
+_user_components="$(\tr : $'\n' <<< "${PATH:-}" |\grep -xv -f <(\tr : $'\n' <<< "${_last_path}") |\tr $'\n' :)"
+declare -gx PATH="${_user_components}${_new_path}"
+declare -gx DENO_TLS_CA_STORE=system
+declare -gx USER=runner
+declare -gx REPL_HOME=/home/runner/KicauMania
+declare -gx REPL_IMAGE=gcr.io/marine-cycle-160323/nix:bf8590a3e2f0a8b70b7ca175eeed9074dffbfca9
+declare -gx REPL_OWNER=ligballs9116942
+declare -gx REPL_ID=3391ccab-b894-4ab8-98b7-a31399e0d4a7
+declare -gx DOCKER_CONFIG=/home/runner/KicauMania/.config/docker
+declare -gx LIBGL_DRIVERS_PATH=/nix/store/zxhjnh2d440bhli0zck18s10hcq07qpp-mesa-24.2.2-drivers/lib/dri
